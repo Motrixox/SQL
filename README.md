@@ -1,2 +1,2 @@
 # SQL
-SQL assignments from university
+university SQL assignments
